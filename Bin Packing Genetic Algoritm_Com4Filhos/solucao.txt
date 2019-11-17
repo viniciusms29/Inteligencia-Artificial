@@ -1,0 +1,75 @@
+Solução do arquivo: BPP_50_50_0.1_0.7_3.txt
+Melhor individuo(1), Cap = 50, Ocp = 50, Livre = 0
+	(1) item_1: 35
+	(45) item_45: 10
+	(50) item_50: 5
+(2), Cap = 50, Ocp = 47, Livre = 3
+	(10) item_10: 31
+	(33) item_33: 16
+(3), Cap = 50, Ocp = 48, Livre = 2
+	(2) item_2: 34
+	(37) item_37: 14
+(4), Cap = 50, Ocp = 48, Livre = 2
+	(3) item_3: 34
+	(36) item_36: 14
+(5), Cap = 50, Ocp = 50, Livre = 0
+	(7) item_7: 31
+	(27) item_27: 19
+(6), Cap = 50, Ocp = 47, Livre = 3
+	(4) item_4: 34
+	(38) item_38: 13
+(7), Cap = 50, Ocp = 50, Livre = 0
+	(8) item_8: 31
+	(28) item_28: 19
+(8), Cap = 50, Ocp = 46, Livre = 4
+	(5) item_5: 34
+	(40) item_40: 12
+(9), Cap = 50, Ocp = 48, Livre = 2
+	(16) item_16: 25
+	(22) item_22: 23
+(10), Cap = 50, Ocp = 50, Livre = 0
+	(15) item_15: 26
+	(20) item_20: 24
+(11), Cap = 50, Ocp = 50, Livre = 0
+	(6) item_6: 33
+	(44) item_44: 11
+	(49) item_49: 6
+(12), Cap = 50, Ocp = 48, Livre = 2
+	(17) item_17: 25
+	(24) item_24: 23
+(13), Cap = 50, Ocp = 47, Livre = 3
+	(12) item_12: 29
+	(32) item_32: 18
+(14), Cap = 50, Ocp = 46, Livre = 4
+	(9) item_9: 31
+	(34) item_34: 15
+(15), Cap = 50, Ocp = 49, Livre = 1
+	(11) item_11: 31
+	(47) item_47: 7
+	(41) item_41: 11
+(16), Cap = 50, Ocp = 50, Livre = 0
+	(13) item_13: 28
+	(25) item_25: 22
+(17), Cap = 50, Ocp = 48, Livre = 2
+	(18) item_18: 25
+	(21) item_21: 23
+(18), Cap = 50, Ocp = 46, Livre = 4
+	(14) item_14: 28
+	(30) item_30: 18
+(19), Cap = 50, Ocp = 47, Livre = 3
+	(19) item_19: 24
+	(23) item_23: 23
+(20), Cap = 50, Ocp = 46, Livre = 4
+	(26) item_26: 20
+	(35) item_35: 15
+	(42) item_42: 11
+(21), Cap = 50, Ocp = 47, Livre = 3
+	(29) item_29: 19
+	(31) item_31: 18
+	(46) item_46: 10
+(22), Cap = 50, Ocp = 30, Livre = 20
+	(48) item_48: 7
+	(43) item_43: 11
+	(39) item_39: 12
+
+Objetivo = 23.23999999999998, Pacotes = 22
